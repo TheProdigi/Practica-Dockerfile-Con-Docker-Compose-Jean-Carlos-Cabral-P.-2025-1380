@@ -19,7 +19,7 @@ Aplicación web sencilla desarrollada en PHP que muestra un mensaje de Hola Mund
 
 3. Abrir en el navegador:
 
-   http://localhost:8080
+   http://localhost:8081
 
 ## Autor
 
